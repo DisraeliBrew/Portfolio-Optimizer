@@ -1,2 +1,2 @@
 # Portfolio-Optimizer
-Calculates the Optimal Portoflio based on your propensity to investing risk
+Calculates the Optimal Portoflio based on your propensity to investing risk. This is a Jupyter notebook, and uses Julia and the Gurbi optimizer. As such, it requires valid installs of the latter and former to work (Gurobi is a licensed software). I've already run the code using a certain set of equities, but you will need to rerun the code if you add more or change the stocks. 
